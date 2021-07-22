@@ -1,0 +1,2 @@
+# DB-Queris
+SQL homework 
